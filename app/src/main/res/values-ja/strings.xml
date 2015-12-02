@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">すぐロック</string>
+    <string name="app_description">アプリアイコンをタップするだけで画面をロックできるようにします。</string>
+</resources>
